@@ -1,4 +1,4 @@
-module ffgf
+module 4or
 
 #(parameter  coeff1_int_mult1 = 2,
 
